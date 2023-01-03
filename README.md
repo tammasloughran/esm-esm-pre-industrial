@@ -2,6 +2,8 @@
 
 # ACCESS-ESM with **payu**
 
+A pre-industrial smiulation with interactive carbon cycle enabled.
+
 ## Quickstart Guide
 
 
